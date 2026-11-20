@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="UniCampus.BLL/UniCampus.BLL.csproj" Id="6b2b4f22-e3cc-4fe7-b2c7-8ef9d4043a4a" />
+  <Project Path="UniCampus.DAL/UniCampus.DAL.csproj" Id="b4a1c65f-30b5-46da-8556-d0ec0d13a418" />
+  <Project Path="UniCampus.Entities/UniCampus.Entities.csproj" Id="0e9ebe1b-a2a9-4032-bec2-aa5592191da8" />
+  <Project Path="UniCampus.Web/UniCampus.Web.csproj" Id="b7674641-dd9d-4cf0-8371-7248bb7bcc69" />
+</Solution>
